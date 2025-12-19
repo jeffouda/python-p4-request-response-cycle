@@ -11,3 +11,6 @@ ipdb = "0.13.9"
 
 [requires]
 python_full_version = "3.8.13"
+
+[dev-packages]
+pytest = "*"
